@@ -5,20 +5,20 @@ Salut ! Moi, c'est **Harmony**. J'utilise les pronoms **elle et iel**. Je vis en
 Je m'intéresse aux **arts**, **aux sciences**, ainsi que **l'informatique**.
 Je défend les droits **LGBTQ+**, **l'égalité et la liberté de tou·te·s**,**l'anticlassime**,**l'antivalidisme**, ainsi que les **logiciels et l'internet libre**.
 
-Tu peux me joindre via : 
+### Tu peux me joindre via : 
 
 * [**Mastodon** (eldritch.cafe)](https://eldritch.cafe/@chasociale) 
 * [**Telegram**](https://t.me/odixiz)
 * [**Mail**](mailto:odixiz@42l.fr) 
-* **Matrix** (@chanonyme:matrix.org) (je ne garantie pas de réponse rapide)
+* **Matrix** (@chanonyme:matrix.org) *je ne garantie pas de réponse rapide*
 * **Discord** (Harmony##4904)
 * [**Instagram**](https://instagram.com/chartiste.bzh)
 
-Je fais également de la musique. Tu peux l'écouter sur : 
+### Je fais de la musique. Tu peux l'écouter sur : 
 
 * [Souncloud](https://soundcloud.com/odixiz)
 
-Ainsi que de la photo, que tu peux voir sur :
+### Je fais aussi de la photo, que tu peux voir sur :
 
 * [**Flickr**](https://www.flickr.com/people/194672187@N07/)
 * [**500px**](https://500px.com/p/odixiz)
