@@ -16,7 +16,7 @@ Je défend les droits **LGBTQ+**, **l'égalité et la liberté de tou·te·s**,*
 
 ### Je fais de la musique. Tu peux l'écouter sur : 
 
-* [Souncloud](https://soundcloud.com/odixiz)
+* [**Souncloud**](https://soundcloud.com/odixiz)
 
 ### Je fais aussi de la photo, que tu peux voir sur :
 
