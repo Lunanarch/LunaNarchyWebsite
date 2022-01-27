@@ -35,7 +35,7 @@ $btn_social_4_link = "mailto:harmony@42l.fr";
 $btn_social_4_icon = "fas fa-at";
 $btn_social_4_color = "rgb(182, 2, 32)";
 
-$btn_social_5 = "Discord (Odixiz#0001)";
+$btn_social_5 = "Discord (Harmony#4904)";
 $btn_social_5_link = "";
 $btn_social_5_icon = "fab fa-discord";
 $btn_social_5_color = "rgb(41, 80, 255)";
