@@ -1,0 +1,39 @@
+@media print {
+    :root {
+      --bg: #fff;
+      --fg: #222;
+    }
+  
+    html {
+      font-size: 11pt;
+    }
+  
+    body {
+      display: initial;
+      padding: unset;
+      margin: unset;
+    }
+  
+    main {
+      max-width: unset;
+    }
+  
+    a {
+      box-shadow: none;
+      color: blue;
+    }
+  
+    a[href]:after {
+      content: " (" attr(href) ")";
+      color: #222;
+      font-size: 75%;
+      font-weight: 400;
+    }
+  
+    .avi {
+      float: none;
+      font-size: 0.75em;
+      margin: 1em 0 2em;
+    }
+  }
+  
