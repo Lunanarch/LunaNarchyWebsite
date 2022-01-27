@@ -3,7 +3,7 @@
 
 Salut ! Moi, c'est **Harmony**. J'utilise les pronoms **elle et iel**. Je vis en **Bretagne** et j'étudie au **Lycée Expérimental de Saint-Nazaire**.
 Je m'intéresse aux **arts**, **aux sciences**, ainsi que **l'informatique**.
-Je défend les droits **LGBTQ+**, **l'égalité et la liberté de tou·te·s**,**l'anticlassime**,**l'antivalidisme**, ainsi que les **logiciels et l'internet libre**.
+Je défend les droits **LGBTQ+**, **l'égalité et la liberté de tou·te·s**, **l'anticlassime**, **l'antivalidisme**, ainsi que les **logiciels et l'internet libre**.
 
 ### Tu peux me joindre via : 
 
