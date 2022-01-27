@@ -26,4 +26,4 @@ Je défend les droits **LGBTQ+**, **l'égalité et la liberté de tou·te·s**,*
 
 Il m'arrive de dev. Tu peux aller voir ça sur ma [page de profil GitHub](https://github.com/ODXZ).
 
-Ah, et je suis une **personne autiste**. Merci de communiquer avec moi (si possible) en utilisant des [**indicateurs de ton**](https://toneindicators.carrd.co).
+Ah, et je suis une **personne autiste**. Merci de communiquer avec moi en utilisant (si possible) des [**indicateurs de ton**](https://toneindicators.carrd.co).
