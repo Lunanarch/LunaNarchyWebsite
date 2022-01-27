@@ -9,8 +9,8 @@ Tu peux me joindre via :
 
 * [**Mastodon** (eldritch.cafe)](https://eldritch.cafe/@chasociale) 
 * [**Telegram**](https://t.me/odixiz)
-* [**Mail**](https://mailto:odixiz@42l.fr) 
-* [**Matrix**]() (je ne garantie pas de réponse rapide)
+* [**Mail**](mailto:odixiz@42l.fr) 
+* **Matrix** (@chanonyme:matrix.org) (je ne garantie pas de réponse rapide)
 * **Discord** (Harmony##4904)
 * [**Instagram**](https://instagram.com/chartiste.bzh)
 
