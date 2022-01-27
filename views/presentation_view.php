@@ -21,13 +21,13 @@
       </div>
       <h1><?php echo WEBSITE_NAME ?></h1>
       <p>
-        Salut ! Moi, c'est Harmony. J'utilise les pronoms <?php include './assets/svg/demigirl_flag.php' ?> <a href="https://fr.pronouns.page/@odixiz" target="_bank" class="deco"> elle et iel</a>. Je vis en <img src="assets/images/breizh.png" class="flag"></img> Bretagne et j'étudie au
+        Salut ! Moi, c'est Harmony. J'utilise les pronoms <?php include './assets/svg/demigirl_flag.html' ?> <a href="https://fr.pronouns.page/@odixiz" target="_bank" class="deco"> elle et iel</a>. Je vis en <img src="assets/images/breizh.png" class="flag"></img> Bretagne et j'étudie au
           <img src="assets/images/lxp.jpg" class="flag"></img> Lycée Expérimental de Saint-Nazaire.
       </p>
       <p>Je m'intéresse aux <strong><i class="fas fa-palette" style="color: rgb(255, 198, 41)"></i> arts</strong>, 
         <strong>aux <i class="fas fa-atom" style="color: rgb(251, 4, 210)"></i> sciences</strong>, 
         ainsi que <strong><i class="fas fa-laptop" style="color: rgb(98, 41, 255)"></i> l'informatique</strong>.</p>
-      <p>Je défend les droits <?php include './assets/svg/lgbt_flag.php' ?> <strong>LGBTQ+</strong>, <?php include './assets/svg/anarco_flag.php' ?> <strong>l'égalité et la liberté</strong> de tou·te·s, 
+      <p>Je défend les droits <?php include './assets/svg/lgbt_flag.html' ?> <strong>LGBTQ+</strong>, <?php include './assets/svg/anarco_flag.html' ?> <strong>l'égalité et la liberté</strong> de tou·te·s, 
         <strong>l'anticlassime</strong>, <strong>l'antivalidisme</strong>, ainsi que <strong>les logiciels et l'internet libre</strong>.</p>
      
      <!-- Contact -->
@@ -77,16 +77,16 @@
 
 <!-- Neurodivergence -->
 
-      <p>Je suis une personne <?php include './assets/svg/neurodiv.php' ?> autiste. Merci de communiquer avec moi en utilisant des <a href="https://toneindicators.carrd.co" target="_blank" class="deco">indicateurs de ton</a>.</p>
+      <p>Je suis une personne <?php include './assets/svg/neurodiv.html' ?> autiste. Merci de communiquer avec moi en utilisant des <a href="https://toneindicators.carrd.co" target="_blank" class="deco">indicateurs de ton</a>.</p>
       <footer>
         <span>
-        <?php include './assets/svg/lgbt_flag.php' ?>
-        <?php include './assets/svg/demigirl_flag.php' ?>
-        <?php include './assets/svg/anarco_queer_flag.php' ?>
-        <?php include './assets/svg/anarco_flag.php' ?>
-        <?php include './assets/svg/neurodiv.php' ?>
-        <?php include './assets/svg/solarpunk.php' ?>
-        <?php include './assets/svg/blm.php' ?>
+        <?php include './assets/svg/lgbt_flag.html' ?>
+        <?php include './assets/svg/demigirl_flag.html' ?>
+        <?php include './assets/svg/anarco_queer_flag.html' ?>
+        <?php include './assets/svg/anarco_flag.html' ?>
+        <?php include './assets/svg/neurodiv.html' ?>
+        <?php include './assets/svg/solarpunk.html' ?>
+        <?php include './assets/svg/blm.html' ?>
         </span>
         <br />
         <small>
