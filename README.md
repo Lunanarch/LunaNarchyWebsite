@@ -11,7 +11,7 @@ Je défend les droits **LGBTQ+**, **l'égalité et la liberté de tou·te·s**, 
 * [**Telegram**](https://t.me/odixiz)
 * [**Mail**](mailto:odixiz@42l.fr) 
 * **Matrix** (@chanonyme:matrix.org) *je ne garantie pas de réponse rapide*
-* **Discord** (Harmony##4904)
+* **Discord** (Harmony#4904)
 * [**Instagram**](https://instagram.com/chartiste.bzh)
 
 ### Je fais de la musique. Tu peux l'écouter sur : 
