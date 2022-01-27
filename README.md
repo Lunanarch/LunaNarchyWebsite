@@ -1,5 +1,5 @@
 # Odixiz
-## [Site internet de présentation](https://harmony.inakaz.fr/) et bio.
+## [Site internet de présentation](https://harmony.inakaz.fr/), et bio.
 
 Salut ! Moi, c'est **Harmony**. J'utilise les pronoms **elle et iel**. Je vis en **Bretagne** et j'étudie au **Lycée Expérimental de Saint-Nazaire**.
 Je m'intéresse aux **arts**, **aux sciences**, ainsi que **l'informatique**.
