@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Odixiz
+## [Site internet de présentation](https://harmony.inakaz.fr/), et bio.
 
-You can use the [editor on GitHub](https://github.com/ODXZ/Odixiz/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Salut ! Moi, c'est **Harmony**. J'utilise les pronoms **elle et iel**. Je vis en **Bretagne** et j'étudie au **Lycée Expérimental de Saint-Nazaire**.
+Je m'intéresse aux **arts**, **aux sciences**, ainsi que **l'informatique**.
+Je défend les droits **LGBTQ+**, **l'égalité et la liberté de tou·te·s**, **l'anticlassime**, **l'antivalidisme**, ainsi que les **logiciels et l'internet libre**.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Tu peux me joindre via : 
 
-### Markdown
+* [**Mastodon** (eldritch.cafe)](https://eldritch.cafe/@chasociale) 
+* [**Telegram**](https://t.me/odixiz)
+* [**Mail**](mailto:odixiz@42l.fr) 
+* **Matrix** (@chanonyme:matrix.org) *je ne garantie pas de réponse rapide*
+* **Discord** (Harmony#4904)
+* [**Instagram**](https://instagram.com/chartiste.bzh)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Je fais de la musique. Tu peux l'écouter sur : 
 
-```markdown
-Syntax highlighted code block
+* [**Souncloud**](https://soundcloud.com/odixiz)
 
-# Header 1
-## Header 2
-### Header 3
+### Je fais aussi de la photo, que tu peux voir sur :
 
-- Bulleted
-- List
+* [**Flickr**](https://www.flickr.com/people/194672187@N07/)
+* [**500px**](https://500px.com/p/odixiz)
+* [**Pixelfed** (pixelfed.social)](https://pixelfed.social/Odixiz)
+* Tu peux également trouver la plupart de mes photos sur Instagram.
 
-1. Numbered
-2. List
+**Il m'arrive de dev**. Tu peux aller voir ça sur ma [**page de profil GitHub**](https://github.com/ODXZ).
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ODXZ/Odixiz/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Ah, et **je suis une personne autiste**. Merci de communiquer avec moi en utilisant (si possible) des [**indicateurs de ton**](https://toneindicators.carrd.co).
