@@ -1,6 +1,0 @@
-<svg class="flag" role="img" viewBox="0 0 6 4" aria-labelledby="flag-sp">
-            <title id="flag-sp">Drapeau solarpunk</title>
-            <rect width="6" height="4" fill="#217d40" />
-            <polygon points="0,0 6,0 0,4" fill="#0d3b52" />
-            <circle cx="3" cy="2" r="0.9" stroke-dasharray="0.28" fill="#d9b110" stroke="#d9b110" />
-          </svg>
