@@ -22,7 +22,8 @@ Je défend les droits **LGBTQ+**, **l'égalité et la liberté de tou·te·s**, 
 
 * [**Flickr**](https://www.flickr.com/people/194672187@N07/)
 * [**500px**](https://500px.com/p/odixiz)
-* [**Pixelfed** (pixelfed.social)](https://pixelfed.social/Odixiz) (ou Instagram).
+* [**Pixelfed** (pixelfed.social)](https://pixelfed.social/Odixiz)
+* Tu peux également trouver la plupart de mes photos sur Instagram.
 
 **Il m'arrive de dev**. Tu peux aller voir ça sur ma [**page de profil GitHub**](https://github.com/ODXZ).
 
