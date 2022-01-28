@@ -59,7 +59,7 @@ Si tel est le cas, il te suffit de glisser les fichiers du site à la racine du 
 
 ### SVG
 
-* Ce site contient de petites **icônes SVG** (drapeau LGBTQIA+, demigirl, libertaire, etc...). Il est possible d'**en rajouter de nouvelles** en créant un/de nouveau(x) fichiers dans ```assets/svg/nomdetonfichier.html``` et en collant un code SVG facilement trouvable [ICI](https://commons.wikimedia.org/wiki/Main_Page).
+* Ce site contient de petites **icônes SVG** (drapeau LGBTQIA+, demigirl, libertaire, etc...). Il est possible d'**en rajouter de nouvelles** en créant un/de nouveau(x) fichiers dans ```assets/svg/nomdetonfichier.html``` et en y collant un code SVG facilement trouvable [ICI](https://commons.wikimedia.org/wiki/Main_Page).
 * Afin d'**afficher une icônes sur une page**, il est necéssaire d'y **inclure cette ligne** : ```<?php include './assets/svg/nomdetonfichier.html' ?>```
 
 ### Menu de navigation
