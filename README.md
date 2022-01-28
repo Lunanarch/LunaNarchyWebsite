@@ -37,28 +37,30 @@ Ah, et **je suis une personne autiste**. Merci de communiquer avec moi en utilis
 
 ### License
 
-Tu es **autorisé·e à réutiliser mon site internet, peu importe l'usage que tu en fera** (personnel, commercial). Néanmoins, **le contenu de celui ne t'appartient pas** (images, textes, etc...), merci donc de **ne pas le publier sans modifications**.
+Tu es **autorisé·e à réutiliser mon site internet, peu importe l'usage que tu en fera** (personnel, commercial). Néanmoins, **le contenu de celui-ci ne t'appartient pas** (images, textes, etc...), merci donc de **ne pas le publier sans modifications**.
 
 ### Installation
 
-Le site fonctionne principalement avec le langage **PHP**. Il te faudra donc un serveur web si tu souhaite le modifier ou l'héberger. 
-Si tel est le cas, il te suffira de glisser les fichiers du site à la racine du serveur web.
+Le site fonctionne principalement avec le langage **PHP**. Un serveur web est donc necéssaire si tu souhaite le modifier ou l'héberger. 
+Si tel est le cas, il te suffit de glisser les fichiers du site à la racine du serveur web.
 
 ### Création d'une page
 
-Si tu souhaite créer une nouvelle page, il faudra créer un fichier en ```nomdetapage_view.php``` dans le dossier ```views``` et ```nomdetapage_controller.php``` dans le dossier ```controllers```. La structure de la page (HTML/PHP) devra se faire dans ```nomdetapage_view.php```. Le code **CSS** devra se situer dans ```assets/css/styles.css```.
+* Afin de créer une nouvelle page, il est important de créer un fichier ressemblant à ceci : ```nomdetapage_view.php```, dans le dossier ```views``` et ```nomdetapage_controller.php```, dans le dossier ```controllers```. 
+* La structure de la page (HTML/PHP) est à rédiger dans ```nomdetapage_view.php```. 
+* Le code **CSS** est à rédiger dans ```assets/css/styles.css```.
 
 ### Configuration 
 
 * Un fichier de configuration du site est disponible dans ```_config/config.php```. Certaines informations sont à changer dans le fichier ```site.webmanifest```, ainsi que dans le fichier ```views/includes/head.php```.
-* Pour changer les icônes sociales, il suffit de modifier le fichier ```_config/buttons.php```. Pour l'affichage, j'utilise [Fontawesome](https://fontawesome.com).
+* Un fichier est dédié à la personnalisation des icônes sociales : ```_config/buttons.php```. Pour l'affichage, j'utilise [Fontawesome](https://fontawesome.com).
 * L'îcone du site iternet est à changer dans ```assets/images/icons/``` *dans les différentes tailles présentes dans le dossier*.
-* Afin de **personnaliser le thème du site**, tu peux **modifier les variables** situées aux premières lignes du fichier ```assets/css/styles.css```.
+* Afin de **personnaliser le thème du site**, des **variables sont disponibles** dans les premières lignes du fichier ```assets/css/styles.css```.
 
 ### SVG
 
-* Ce site contient de petites **icônes SVG** (drapeau LGBTQIA+, demigirl, libertaire, etc...). Tu peux **en rajouter de nouvelles** en créant un/de nouveau(x) fichiers dans ```assets/svg/nomdetonfichier.html``` et en collant un code SVG que tu pourra trouver [ICI](https://commons.wikimedia.org/wiki/Main_Page).
-* Afin d'**afficher une icônes sur une page**, tu devras y **inclure cette ligne** : ```<?php include './assets/svg/nomdetonfichier.html' ?>```
+* Ce site contient de petites **icônes SVG** (drapeau LGBTQIA+, demigirl, libertaire, etc...). Il est possible d'**en rajouter de nouvelles** en créant un/de nouveau(x) fichiers dans ```assets/svg/nomdetonfichier.html``` et en collant un code SVG facilement trouvable [ICI](https://commons.wikimedia.org/wiki/Main_Page).
+* Afin d'**afficher une icônes sur une page**, il est necéssaire d'y **inclure cette ligne** : ```<?php include './assets/svg/nomdetonfichier.html' ?>```
 
 ### Menu de navigation
 
