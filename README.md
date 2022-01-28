@@ -39,8 +39,8 @@ Ah, et **je suis une personne autiste**. Merci de communiquer avec moi en utilis
 
 Tu es **autorisé·e à réutiliser mon site internet, peu importe l'usage que tu en fera** (personnel, commercial). Néanmoins, **le contenu de celui-ci ne t'appartient pas** (images, textes, etc...), merci donc de **ne pas le publier sans modifications**.
 
-## Installation
-###Hébergement
+## Installation et configuration
+### Hébergement
 
 Le site fonctionne principalement avec le langage **PHP**. Un serveur web est donc necéssaire si tu souhaite le modifier ou l'héberger. 
 Si tel est le cas, il te suffit de glisser les fichiers du site à la racine du serveur web.
