@@ -1,5 +1,6 @@
 > Tu es **autorisé·e à réutiliser mon site internet, peu importe l'usage que tu en fera** (personnel, commercial). Néanmoins, **le contenu de celui ne t'appartient pas** (images, textes, etc...), merci donc de **ne pas le publier sans modifications**.
-> Le site fonctionne principalement avec le langege **PHP**. Il te faudra donc un serveur web si tu souhaite le modifier ou l'héberger.
+
+> Le site fonctionne principalement avec le langage **PHP**. Il te faudra donc un serveur web si tu souhaite le modifier ou l'héberger.
 
 # Odixiz
 ## [Site internet de présentation](https://harmony.inakaz.fr/), et bio.
