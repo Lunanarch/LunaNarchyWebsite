@@ -42,8 +42,8 @@ Tu es **autorisé·e à réutiliser mon site internet, peu importe l'usage que t
 ## Installation et configuration
 ### Téléchargement
 
-Le code source de ce site est téléchargeable [ICI](https://github.com/ODXZ/Odixiz/archive/refs/heads/main.zip).
-Il est également possible de le cloner avec la commande ```git clone https://github.com/ODXZ/Odixiz.git```, dans le dossier choisis (```cd /dossier/dossier```), sur Linux.
+* Le code source de ce site est téléchargeable [ICI](https://github.com/ODXZ/Odixiz/archive/refs/heads/main.zip).
+* Il est également possible de le cloner avec la commande ```git clone https://github.com/ODXZ/Odixiz.git```, dans le dossier choisis (```cd dossier/dossier```), sur Linux.
 
 ### Hébergement
 
