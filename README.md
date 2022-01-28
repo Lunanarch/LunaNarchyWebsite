@@ -10,7 +10,6 @@ Je défend les droits **LGBTQ+**, **l'égalité et la liberté de tou·te·s**, 
 * [**Mastodon** (eldritch.cafe)](https://eldritch.cafe/@chasociale) 
 * [**Telegram**](https://t.me/odixiz)
 * [**Mail**](mailto:odixiz@42l.fr) 
-* **Discord** (Harmony#4904)
 * [**Instagram**](https://instagram.com/chartiste.bzh)
 
 ### Je fais de la musique. Tu peux l'écouter sur : 
