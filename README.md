@@ -40,6 +40,11 @@ Ah, et **je suis une personne autiste**. Merci de communiquer avec moi en utilis
 Tu es **autorisé·e à réutiliser mon site internet, peu importe l'usage que tu en fera** (personnel, commercial). Néanmoins, **le contenu de celui-ci ne t'appartient pas** (images, textes, etc...), merci donc de **ne pas le publier sans modifications**.
 
 ## Installation et configuration
+### Téléchargement
+
+Le code source de ce site est téléchargeable [ICI](https://github.com/ODXZ/Odixiz/archive/refs/heads/main.zip).
+Il est également possible de le cloner avec la commande ```git clone https://github.com/ODXZ/Odixiz.git```, dans le dossier choisis (```cd /dossier/dossier```), sur Linux.
+
 ### Hébergement
 
 Le site fonctionne principalement avec le langage **PHP**. Un serveur web est donc necéssaire si tu souhaite le modifier ou l'héberger. 
