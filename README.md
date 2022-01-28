@@ -52,6 +52,7 @@ Si tu souhaite créer une nouvelle page, il faudra créer un fichier en ***nomde
 
 * Un fichier de configuration du site est disponible dans ***_config/config.php***. Certaines informations sont à changer dans le fichier ***site.webmanifest***, ainsi que dans le fichier ***views/includes/head.php***.
 * Pour changer les icônes sociales, il suffit de modifier le fichier ***_config/buttons.php**. Pour l'affichage, j'utilise [Fontawesome](https://fontawesome.com).
+* L'îcone du site iternet est à changer dans ***assets/images/icons/*** *dans les différentes tailles présentes dans le dossier*.
 
 ### SVG
 
