@@ -35,7 +35,10 @@ Tu es **autorisé·e à réutiliser mon site internet, peu importe l'usage que t
 
 ### Utilisation
 
-Le site fonctionne principalement avec le langage **PHP**. Il te faudra donc un serveur web si tu souhaite le modifier ou l'héberger. 
+* Le site fonctionne principalement avec le langage **PHP**. Il te faudra donc un serveur web si tu souhaite le modifier ou l'héberger. 
 
-Concernant son utilisation, si tu souhaite créer une nouvelle page, il faudra créer un fichier en ***nomdetapage_view.php*** dans le dossier **views** et ***nomdetapage_controller.php*** dans le dossier **controllers**. La structure de la page (HTML/PHP) devra se faire dans ***nomdetapage_view.php***.
-Un fichier de configuration du site est disponible dans ***_config/config.php***. Il se peut que certaines informations soient à changer dans le fichier ***site.webmanifest***, ainsi que dans le fichier ***views/includes/head.php***.
+**Concernant son utilisation :**
+
+> Si tu souhaite créer une nouvelle page, il faudra créer un fichier en ***nomdetapage_view.php*** dans le dossier **views** et ***nomdetapage_controller.php*** dans le dossier **controllers**. La structure de la page (HTML/PHP) devra se faire dans ***nomdetapage_view.php***.
+
+> Un fichier de configuration du site est disponible dans ***_config/config.php***. Il se peut que certaines informations soient à changer dans le fichier ***site.webmanifest***, ainsi que dans le fichier ***views/includes/head.php***.
