@@ -30,15 +30,17 @@ Ah, et **je suis une personne autiste**. Merci de communiquer avec moi en utilis
 
 # Mini doc
 
-## Avertissement
+## Avant de commencer
+### Avertissement
 
 **Ce site n'est pas prévu pour être utilisé par d'autres personnes**. Cette documentation n'apporte donc que **le minimum** pour le mettre en place. **Quelques connaissance** en **PHP/HTML/CSS** ainsi qu'en **hébergement web** sont **requises**.
 
-## License
+### License
 
 Tu es **autorisé·e à réutiliser mon site internet, peu importe l'usage que tu en fera** (personnel, commercial). Néanmoins, **le contenu de celui-ci ne t'appartient pas** (images, textes, etc...), merci donc de **ne pas le publier sans modifications**.
 
-### Installation
+## Installation
+###Hébergement
 
 Le site fonctionne principalement avec le langage **PHP**. Un serveur web est donc necéssaire si tu souhaite le modifier ou l'héberger. 
 Si tel est le cas, il te suffit de glisser les fichiers du site à la racine du serveur web.
