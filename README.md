@@ -29,11 +29,15 @@ Je défend les droits **LGBTQ+**, **l'égalité et la liberté de tou·te·s**, 
 
 Ah, et **je suis une personne autiste**. Merci de communiquer avec moi en utilisant (si possible) des [**indicateurs de ton**](https://toneindicators.carrd.co).
 
+## Mini doc
+
+### Avertissement
+
+* **Ce site n'est pas prévu pour être utilisé par d'autres personnes**. Cette documentation n'apporte donc que **le minimum** pour le mettre en place. **Quelques connaissance** en **PHP/HTML/CSS** ainsi qu'en **hébergement web** sont **requises**.
+
 ### License
 
 Tu es **autorisé·e à réutiliser mon site internet, peu importe l'usage que tu en fera** (personnel, commercial). Néanmoins, **le contenu de celui ne t'appartient pas** (images, textes, etc...), merci donc de **ne pas le publier sans modifications**.
-
-## Mini doc
 
 ### Installation
 
@@ -45,4 +49,6 @@ Tu es **autorisé·e à réutiliser mon site internet, peu importe l'usage que t
 
 ### Configuration 
 
-Un fichier de configuration du site est disponible dans ***_config/config.php***. Il se peut que certaines informations soient à changer dans le fichier ***site.webmanifest***, ainsi que dans le fichier ***views/includes/head.php***.
+* Un fichier de configuration du site est disponible dans ***_config/config.php***. Certaines informations sont à changer dans le fichier ***site.webmanifest***, ainsi que dans le fichier ***views/includes/head.php***.
+
+* Pour changer les icônes sociales, il suffit de modifier le fichier ***_config/buttons.php**. Pour les icônes, j'utilise [Fontawesome](https://fontawesome.com)
