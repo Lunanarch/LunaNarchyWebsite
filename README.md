@@ -53,8 +53,13 @@ Si tu souhaite créer une nouvelle page, il faudra créer un fichier en ```nomde
 * Un fichier de configuration du site est disponible dans ```_config/config.php```. Certaines informations sont à changer dans le fichier ```site.webmanifest```, ainsi que dans le fichier ```views/includes/head.php```.
 * Pour changer les icônes sociales, il suffit de modifier le fichier ```_config/buttons.php```. Pour l'affichage, j'utilise [Fontawesome](https://fontawesome.com).
 * L'îcone du site iternet est à changer dans ```assets/images/icons/``` *dans les différentes tailles présentes dans le dossier*.
+* Afin de **personnaliser le thème du site**, tu peux **modifier les variables** situées aux premières lignes du fichier ```assets/css/styles.css```.
 
 ### SVG
 
-* Ce site contient de petites icônes SVG (drapeau LGBTQIA+, demigirl, libertaire, etc...). Tu peux en rajouter de nouvelles en créant un/de nouveau(x) fichiers dans ```assets/svg/nomdetonfichier.html``` et en collant un code SVG que tu pourra trouver [ICI](https://commons.wikimedia.org/wiki/Main_Page).
-* Afin d'afficher une icônes sur une page, il te suffira d'y inclure cette ligne : ```<?php include './assets/svg/nomdetonfichier.html' ?>```
+* Ce site contient de petites **icônes SVG** (drapeau LGBTQIA+, demigirl, libertaire, etc...). Tu peux **en rajouter de nouvelles** en créant un/de nouveau(x) fichiers dans ```assets/svg/nomdetonfichier.html``` et en collant un code SVG que tu pourra trouver [ICI](https://commons.wikimedia.org/wiki/Main_Page).
+* Afin d'**afficher une icônes sur une page**, tu devras y **inclure cette ligne** : ```<?php include './assets/svg/nomdetonfichier.html' ?>```
+
+### Menu de navigation
+
+Le menu de navigation est **à modifier manuellement** dans ```views/includes/nav.php```. 
