@@ -31,8 +31,11 @@ Ah, et **je suis une personne autiste**. Merci de communiquer avec moi en utilis
 
 ### License
 
-> Tu es **autorisé·e à réutiliser mon site internet, peu importe l'usage que tu en fera** (personnel, commercial). Néanmoins, **le contenu de celui ne t'appartient pas** (images, textes, etc...), merci donc de **ne pas le publier sans modifications**.
+Tu es **autorisé·e à réutiliser mon site internet, peu importe l'usage que tu en fera** (personnel, commercial). Néanmoins, **le contenu de celui ne t'appartient pas** (images, textes, etc...), merci donc de **ne pas le publier sans modifications**.
 
 ### Utilisation
 
-> Le site fonctionne principalement avec le langage **PHP**. Il te faudra donc un serveur web si tu souhaite le modifier ou l'héberger.
+Le site fonctionne principalement avec le langage **PHP**. Il te faudra donc un serveur web si tu souhaite le modifier ou l'héberger. 
+
+Concernant son utilisation, si tu souhaite créer une nouvelle page, il faudra créer un fichier en ***nomdetapage_view.php*** dans le dossier **views** et ***nomdetapage_controller.php*** dans le dossier **controllers**. La structure de la page (HTML/PHP) devra se faire dans ***nomdetapage_view.php***.
+Un fichier de configuration du site est disponible dans ***_config/config.php***. Il se peut que certaines informations soient à changer dans le fichier ***site.webmanifest***, ainsi que dans le fichier ***views/includes/head.php***.
