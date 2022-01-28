@@ -1,4 +1,4 @@
-> Tu es autorisé·e à rééutiliser mon site internet pour ton usage personnel. Néanmoins, le contenu de celui ne t'appartient pas (images, textes, etc...).
+> Tu es autorisé·e à réutiliser mon site internet pour ton usage personnel. Néanmoins, le contenu de celui ne t'appartient pas (images, textes, etc...), merci donc de ne pas le .
 
 # Odixiz
 ## [Site internet de présentation](https://harmony.inakaz.fr/), et bio.
