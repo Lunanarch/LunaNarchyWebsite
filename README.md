@@ -1,7 +1,3 @@
-> Tu es **autorisé·e à réutiliser mon site internet, peu importe l'usage que tu en fera** (personnel, commercial). Néanmoins, **le contenu de celui ne t'appartient pas** (images, textes, etc...), merci donc de **ne pas le publier sans modifications**.
-
-> Le site fonctionne principalement avec le langage **PHP**. Il te faudra donc un serveur web si tu souhaite le modifier ou l'héberger.
-
 # Odixiz
 ## [Site internet de présentation](https://harmony.inakaz.fr/), et bio.
 
@@ -32,3 +28,11 @@ Je défend les droits **LGBTQ+**, **l'égalité et la liberté de tou·te·s**, 
 **Il m'arrive de dev**. Tu peux aller voir ça sur ma [**page de profil GitHub**](https://github.com/ODXZ).
 
 Ah, et **je suis une personne autiste**. Merci de communiquer avec moi en utilisant (si possible) des [**indicateurs de ton**](https://toneindicators.carrd.co).
+
+### License
+
+> Tu es **autorisé·e à réutiliser mon site internet, peu importe l'usage que tu en fera** (personnel, commercial). Néanmoins, **le contenu de celui ne t'appartient pas** (images, textes, etc...), merci donc de **ne pas le publier sans modifications**.
+
+### Utilisation
+
+> Le site fonctionne principalement avec le langage **PHP**. Il te faudra donc un serveur web si tu souhaite le modifier ou l'héberger.
