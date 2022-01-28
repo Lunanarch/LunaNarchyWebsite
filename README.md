@@ -46,15 +46,15 @@ Si tel est le cas, il te suffira de glisser les fichiers du site à la racine du
 
 ### Création d'une page
 
-Si tu souhaite créer une nouvelle page, il faudra créer un fichier en ***nomdetapage_view.php*** dans le dossier **views** et ***nomdetapage_controller.php*** dans le dossier **controllers**. La structure de la page (HTML/PHP) devra se faire dans ***nomdetapage_view.php***. Le code **CSS** devra se situer dans ***assets/css/styles.css***.
+Si tu souhaite créer une nouvelle page, il faudra créer un fichier en ```nomdetapage_view.php``` dans le dossier ```views``` et ```nomdetapage_controller.php``` dans le dossier ```controllers```. La structure de la page (HTML/PHP) devra se faire dans ```nomdetapage_view.php```. Le code **CSS** devra se situer dans ```assets/css/styles.css```.
 
 ### Configuration 
 
-* Un fichier de configuration du site est disponible dans ***_config/config.php***. Certaines informations sont à changer dans le fichier ***site.webmanifest***, ainsi que dans le fichier ***views/includes/head.php***.
-* Pour changer les icônes sociales, il suffit de modifier le fichier ***_config/buttons.php**. Pour l'affichage, j'utilise [Fontawesome](https://fontawesome.com).
-* L'îcone du site iternet est à changer dans ***assets/images/icons/*** *dans les différentes tailles présentes dans le dossier*.
+* Un fichier de configuration du site est disponible dans ```_config/config.php```. Certaines informations sont à changer dans le fichier ```site.webmanifest```, ainsi que dans le fichier ```views/includes/head.php```.
+* Pour changer les icônes sociales, il suffit de modifier le fichier ```_config/buttons.php```. Pour l'affichage, j'utilise [Fontawesome](https://fontawesome.com).
+* L'îcone du site iternet est à changer dans ```assets/images/icons/``` *dans les différentes tailles présentes dans le dossier*.
 
 ### SVG
 
-* Ce site contient de petites icônes SVG (drapeau LGBTQIA+, demigirl, libertaire, etc...). Tu peux en rajouter de nouvelles en créant un/de nouveau(x) fichiers dans ***assets/svg/nomdetonfichier.html*** et en collant un code SVG que tu pourra trouver [ICI](https://commons.wikimedia.org/wiki/Main_Page).
+* Ce site contient de petites icônes SVG (drapeau LGBTQIA+, demigirl, libertaire, etc...). Tu peux en rajouter de nouvelles en créant un/de nouveau(x) fichiers dans ```assets/svg/nomdetonfichier.html``` et en collant un code SVG que tu pourra trouver [ICI](https://commons.wikimedia.org/wiki/Main_Page).
 * Afin d'afficher une icônes sur une page, il te suffira d'y inclure cette ligne : ```<?php include './assets/svg/nomdetonfichier.html' ?>```
