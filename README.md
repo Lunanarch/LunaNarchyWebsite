@@ -51,9 +51,9 @@ Si tu souhaite créer une nouvelle page, il faudra créer un fichier en ***nomde
 ### Configuration 
 
 * Un fichier de configuration du site est disponible dans ***_config/config.php***. Certaines informations sont à changer dans le fichier ***site.webmanifest***, ainsi que dans le fichier ***views/includes/head.php***.
-* Pour changer les icônes sociales, il suffit de modifier le fichier ***_config/buttons.php**. Pour les icônes, j'utilise [Fontawesome](https://fontawesome.com)
+* Pour changer les icônes sociales, il suffit de modifier le fichier ***_config/buttons.php**. Pour l'affichage, j'utilise [Fontawesome](https://fontawesome.com).
 
 ### SVG
 
-* Ce site contient des petites icônes SVG (drapeau LGBTQIA+, demigirl, libertaire, etc...). Tu peux en rajouter de nouvelles en créant un/des nouveau(s) fichiers dans ***assets/svg/nomdetonfichier.html*** et en collant un code SVG que tu pourra trouver [ICI](https://commons.wikimedia.org/wiki/Main_Page).
-* Afin d'afficher une icônes sur une page, il te suffit d'y inclure cette ligne : ```<?php include './assets/svg/nomdetonfichier.html' ?>```
+* Ce site contient de petites icônes SVG (drapeau LGBTQIA+, demigirl, libertaire, etc...). Tu peux en rajouter de nouvelles en créant un/de nouveau(x) fichiers dans ***assets/svg/nomdetonfichier.html*** et en collant un code SVG que tu pourra trouver [ICI](https://commons.wikimedia.org/wiki/Main_Page).
+* Afin d'afficher une icônes sur une page, il te suffira d'y inclure cette ligne : ```<?php include './assets/svg/nomdetonfichier.html' ?>```
