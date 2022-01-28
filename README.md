@@ -28,13 +28,13 @@ Je défend les droits **LGBTQ+**, **l'égalité et la liberté de tou·te·s**, 
 
 Ah, et **je suis une personne autiste**. Merci de communiquer avec moi en utilisant (si possible) des [**indicateurs de ton**](https://toneindicators.carrd.co).
 
-## Mini doc
+# Mini doc
 
-### Avertissement
+## Avertissement
 
 **Ce site n'est pas prévu pour être utilisé par d'autres personnes**. Cette documentation n'apporte donc que **le minimum** pour le mettre en place. **Quelques connaissance** en **PHP/HTML/CSS** ainsi qu'en **hébergement web** sont **requises**.
 
-### License
+## License
 
 Tu es **autorisé·e à réutiliser mon site internet, peu importe l'usage que tu en fera** (personnel, commercial). Néanmoins, **le contenu de celui-ci ne t'appartient pas** (images, textes, etc...), merci donc de **ne pas le publier sans modifications**.
 
