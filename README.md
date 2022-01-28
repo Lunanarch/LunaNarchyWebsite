@@ -59,7 +59,7 @@ Si tel est le cas, il te suffit de glisser les fichiers du site à la racine du 
 ### Configuration 
 
 * Un fichier de configuration du site est disponible dans ```_config/config.php```. Certaines informations sont à changer dans le fichier ```site.webmanifest```, ainsi que dans le fichier ```views/includes/head.php```.
-* Un fichier est dédié à la personnalisation des icônes sociales : ```_config/buttons.php```. Pour l'affichage, j'utilise [Fontawesome](https://fontawesome.com).
+* Un fichier est dédié à la personnalisation des icônes sociales : ```_config/button.php```. Pour l'affichage, j'utilise [Fontawesome](https://fontawesome.com).
 * L'îcone du site iternet est à changer dans ```assets/images/icons/``` *dans les différentes tailles présentes dans le dossier*.
 * Afin de **personnaliser le thème du site**, des **variables sont disponibles** dans les premières lignes du fichier ```assets/css/styles.css```.
 
