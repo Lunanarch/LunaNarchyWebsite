@@ -42,13 +42,19 @@ Tu es **autorisé·e à réutiliser mon site internet, peu importe l'usage que t
 ### Installation
 
 Le site fonctionne principalement avec le langage **PHP**. Il te faudra donc un serveur web si tu souhaite le modifier ou l'héberger. 
+Si tel est le cas, il te suffira de glisser les fichiers du site à la racine du serveur web.
 
 ### Création d'une page
 
-Si tu souhaite créer une nouvelle page, il faudra créer un fichier en ***nomdetapage_view.php*** dans le dossier **views** et ***nomdetapage_controller.php*** dans le dossier **controllers**. La structure de la page (HTML/PHP) devra se faire dans ***nomdetapage_view.php***.
+Si tu souhaite créer une nouvelle page, il faudra créer un fichier en ***nomdetapage_view.php*** dans le dossier **views** et ***nomdetapage_controller.php*** dans le dossier **controllers**. La structure de la page (HTML/PHP) devra se faire dans ***nomdetapage_view.php***. Le code **CSS** devra se situer dans ***assets/css/styles.css***.
 
 ### Configuration 
 
 * Un fichier de configuration du site est disponible dans ***_config/config.php***. Certaines informations sont à changer dans le fichier ***site.webmanifest***, ainsi que dans le fichier ***views/includes/head.php***.
 
 * Pour changer les icônes sociales, il suffit de modifier le fichier ***_config/buttons.php**. Pour les icônes, j'utilise [Fontawesome](https://fontawesome.com)
+
+### SVG
+
+Ce site contient des petites icônes SVG (drapeau LGBTQIA+, demigirl, libertaire, etc...). Tu peux en rajouter de nouvelles en créant un/des nouveau(s) fichiers dans ***assets/svg/nomdetonfichier.html*** et en collant un code SVG que tu pourra trouver [ICI](https://commons.wikimedia.org/wiki/Main_Page).
+Afin d'afficher une icônes sur une page, il te suffit d'y inclure cette ligne : ```php <?php include './assets/svg/nomdetonfichier.html' ?>```
