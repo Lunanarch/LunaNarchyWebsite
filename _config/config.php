@@ -1,6 +1,5 @@
 <?php
 include './_config/button.php';
-include './_config/footer.php';
 
 
 ###########################################################
@@ -53,6 +52,7 @@ define("WEBSITE_DEFAULTPAGE", "presentation"); //Page par défault
 
 define("WEBSITE_TITLE", "Odixiz"); //Titre du site
 define("WEBSITE_NAME", "Odixiz"); //Nom du site
+define("WEBSITE_ICON", "assets/images/logo.png");
 define("WEBSITE_URL", "https://harmony.inakaz.fr/"); //URL du site
 define("WEBSITE_DESCRIPTION", "Salut ! Je fais de l'art et du dev."); // Logo du site
 define("WEBSITE_KEYWORDS", "");
@@ -61,7 +61,7 @@ define("WEBSITE_MAIL", "harmony@42l.fr"); //Mail lié au site
 
 define("WEBSITE_AUTHOR", "Harmony"); //Créateur·ice du site
 define("WEBSITE_AUTHOR_LINK", "https://harmony.inakaz.fr"); //Site ou lien lié à l'auteur·ice / dev du site
-define("WEBSITE_AUTHOR_MAIL", "harmony@inakaz.fr"); //Mail du/de (la) créateur·ice du site
+define("WEBSITE_AUTHOR_MAIL", "harmony@42l.fr"); //Mail du/de (la) créateur·ice du site
 
 //Facebook Open Graph Tags
 

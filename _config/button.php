@@ -52,7 +52,7 @@ $btn_social_7_icon = "fab fa-spotify";
 $btn_social_7_color = "rgb(0, 133, 33)";
 
 $btn_social_8 = "et plus.";
-$btn_social_8_link = "https://hypeflow.com/odixizmusic";
+$btn_social_8_link = "https://hyperfollow.com/odixizmusic";
 $btn_social_8_icon = "-";
 $btn_social_8_color = "rgb(0, 133, 33)";
 
@@ -73,7 +73,7 @@ $btn_social_11_icon = "fas fa-camera-retro";
 $btn_social_11_color = "rgb(167, 96, 4)";
 
 $btn_social_12 = "GitHub";
-$btn_social_12_link = "https://github.com/Odixizz";
+$btn_social_12_link = "https://github.com/ODXZ";
 $btn_social_12_icon = "fab fa-github";
 $btn_social_12_color = "grey";
 
