@@ -51,7 +51,7 @@ Si tel est le cas, il te suffit de glisser les fichiers du site à la racine du 
 
 ### Création d'une page
 
-* Afin de créer une nouvelle page, il est important de créer un fichier ressemblant à ceci : ```nomdetapage_view.php```, dans le dossier ```views``` et ```nomdetapage_controller.php```, dans le dossier ```controllers```. 
+* Afin de créer une nouvelle page, il est important de créer plusieurs fichiers comme ceci : ```nomdetapage_view.php```, dans le dossier ```views``` - ```nomdetapage_controller.php```, dans le dossier ```controllers``` - ```nomdetapage_model.php``` dans le dossiers ```models```. 
 * La structure de la page (HTML/PHP) est à rédiger dans ```nomdetapage_view.php```. 
 * Le code **CSS** est à rédiger dans ```assets/css/styles.css```.
 
@@ -59,7 +59,7 @@ Si tel est le cas, il te suffit de glisser les fichiers du site à la racine du 
 
 * Un fichier de configuration du site est disponible dans ```_config/config.php```. Certaines informations sont à changer dans le fichier ```site.webmanifest```, ainsi que dans le fichier ```views/includes/head.php```.
 * Un fichier est dédié à la personnalisation des icônes sociales : ```_config/button.php```. Pour l'affichage, j'utilise [Fontawesome](https://fontawesome.com).
-* L'îcone du site iternet est à changer dans ```assets/images/icons/``` *dans les différentes tailles présentes dans le dossier*.
+* L'îcone du site iternet est à changer dans ```assets/images/logo.png```.
 * Afin de **personnaliser le thème du site**, des **variables sont disponibles** dans les premières lignes du fichier ```assets/css/styles.css```.
 
 ### SVG
