@@ -95,7 +95,7 @@
           Développé avec <i class="fas fa-heart" style="color: rgb(255, 38, 38)"></i> par <a href="<?php echo WEBSITE_AUTHOR_LINK ?>" class="deco"><?php echo WEBSITE_AUTHOR ?></a>.
           <a href="https://github.com/ODXZ/Odixiz" class="deco">Source</a>.
 </br> 
-<a href="https://inakaz.fr/"><img src="https://zupimages.net/up/22/04/kja2.jpg" alt="Hébergé par Inakaz" class="hostedby" width="100px"></a>
+<a href="https://inakaz.fr/" target="_blank"><img src="https://zupimages.net/up/22/04/kja2.jpg" alt="Hébergé par Inakaz" class="hostedby" width="100px"></a>
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/" target="_blank"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
         </small>
       </footer>

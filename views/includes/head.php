@@ -7,6 +7,7 @@
     <meta name="referrer" content="no-referrer" />
     <script src="https://kit.fontawesome.com/fdfbd6872b.js" crossorigin="anonymous"></script>
     <link rel="canonical" href="https://miel.lly.fr" />
+    <link rel="icon" type="image/png" href="assets/images/logo.png">
     <!-- Inline layout-critical CSS -->
 
     <!-- Stylesheets and scripts -->
@@ -17,19 +18,16 @@
     <link rel="preload" as="font" type="font/woff2" crossorigin href="./assets/fonts/Atkinson-Hyperlegible-Regular-102a.woff2" />
     <link rel="preload" as="font" type="font/woff2" crossorigin href="./assets/fonts/Atkinson-Hyperlegible-Bold-102a.woff2" />
     <!-- Icons and PWA -->
-    <link rel="apple-touch-icon" sizes="180x180" href="./assets/images/icons/icon-180.png" />
-    <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/icons/icon-32.png" />
-    <link rel="icon" type="image/png" sizes="16x16" href="./assets/images/icons/icon-16.png" />
     <link rel="manifest" href="./site.webmanifest" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <!-- Social -->
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://odixiz.chatsdiv.fr" />
-    <meta property="og:image" content="frills/icons/icon-192.png" />
-    <meta property="og:title" content="Odixiz" />
-    <meta property="og:site_name" content="Odixiz" />
-    <meta property="og:locale" content="fr_FR" />
-    <meta property="og:description" content="Salut ! Je fais de l'art et du dev." />
+    <meta property="og:url" content="<?php echo WEBSITE_URL ?>" />
+    <meta property="og:image" content="<?php echo WEBSITE_ICON ?>" />
+    <meta property="og:title" content="<?php echo WEBSITE_TITLE ?>" />
+    <meta property="og:site_name" content="<?php echo WEBSITE_NAME ?>" />
+    <meta property="og:locale" content="<?php echo WEBSITE_LANGUAGE ?>" />
+    <meta property="og:description" content="<?php WEBSITE_DESCRIPTION ?>" />
 
     <?php include_once './_config/config.php' ; ?>
 </head>
