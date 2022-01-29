@@ -18,8 +18,8 @@ $allPages = scandir('controllers/');
 
 if (in_array($page.'_controller.php', $allPages)){
     // Inclusion de la page
-    //include_once 'models/'.$page.'_model.php';
-    //include_once 'controllers/'.$page.'_controller.php';
+    include_once 'models/'.$page.'_model.php';
+    include_once 'controllers/'.$page.'_controller.php';
     include_once 'views/'.$page.'_view.php';
 } else{
     // Retour d'une erreur
