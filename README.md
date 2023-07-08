@@ -7,14 +7,14 @@ Je défend les droits **LGBTQ+**, **l'égalité et la liberté de tou·te·s**, 
 
 ### Tu peux me joindre via : 
 
-* [**Mastodon** (eldritch.cafe)](https://eldritch.cafe/@chasociale) 
+* [**Mastodon** (eldritch.cafe)](https://todon.eu/@chasociale) 
 * [**Telegram**](https://t.me/odixiz)
-* [**Mail**](mailto:luna@42l.fr) 
+* [**Mail**](mailto:luna-thom@riseup.net) 
 * [**Instagram**](https://instagram.com/lunanarch)
 
 ### Je fais de la musique. Tu peux l'écouter sur : 
 
-* [**Souncloud**](https://soundcloud.com/odixiz)
+* [**Souncloud**](https://soundcloud.com/lchl)
 
 ### Je fais aussi de la photo, que tu peux voir sur :
 
